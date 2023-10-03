@@ -1,0 +1,17 @@
+{
+  "account_exists": "Paskyra su tokiu el. paštu jau yra",
+  "invalid_credentials": "Blogi prisijungimo duomenys",
+  "operation_not_allowed": "Operacija negalima",
+  "user_disabled": "Paskyra užblokuota",
+  "user_not_found": "Paskyra su tokiu el. paštu neregistruota",
+  "wrong_password": "Neteisingas slaptažodis",
+  "invalid_verification_code": "Blogas verifikacijos kodas",
+  "invalid_verification_id": "Blogas verifikacijos numeris",
+  "too_many_requests": "Per daug bandymų prisijungti. Prašome pabandyti vėliau",
+  "session_expired": "Baigėsi sesija",
+  "unknown_error": "Klaida. Prašome pabandyti vėliau",
+  "network_request_failure": "Nėra interneto ryšio",
+  "email_already_in_use": "Paskyra su tokiu el. paštu jau yra",
+  "invalid_email": "Netinkamas el. pašto adresas",
+  "required_recent_login": "Kad pakeistumėte el. paštą prisijunkite iš naujo"
+}
